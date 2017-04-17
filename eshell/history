@@ -1,0 +1,8 @@
+git commit -m "first commit"&& git remote add origin git@github.com:harrywynnwill/scip-clojure.git &&git push -u origin master
+git add . && git commit -m "first commit"&& git remote add origin git@github.com:harrywynnwill/scip-clojure.git &&git push -u origin master 
+git status
+cd ..
+cd ..
+ls
+git init
+git add . && git commit -m "first commit"&& git remote add origin git@github.com:harrywynnwill/scip-clojure.git &&git push -u origin master 
